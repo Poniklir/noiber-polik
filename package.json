@@ -1,0 +1,23 @@
+{
+  "name": "noiber-polik",
+  "version": "1.0.0",
+  "description": "noiber-polik",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Poniklir/noiber-polik.git"
+  },
+  "dependencies": {
+    "bulba-kript": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Poniklir/noiber-polik/issues"
+  },
+  "homepage": "https://github.com/Poniklir/noiber-polik#readme"
+}
